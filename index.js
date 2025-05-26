@@ -90,3 +90,7 @@ app.route('/babe')
 app.listen(port, host, () => {
   console.log(`Virtual Girlfriend AI API running at http://${host}:${port}`);
 })
+
+
+
+Here change the details to yours and change the index in this repo to the one you edited
